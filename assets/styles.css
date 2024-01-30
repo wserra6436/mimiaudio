@@ -1,0 +1,51 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url('./fonts/Roboto/Roboto-BlackItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    
+}
+
+#mainpic {
+    font-size: 100px;
+    background-color:deeppink;
+    background-image: url(./images/IMG_1588.PNG);
+    background-size:contain;
+    background-position: center;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: 'Roboto', 'Times New Roman', sans-serif;
+    color: white;
+}
+
+h1 {
+    /*font-size: 80px;*/ 
+    background-color: rgb(10, 101, 122);
+    margin-top: 0px;
+    margin-bottom: 0px;
+    /*text-align: center;*/ 
+}
+
+.maincat {
+    text-align: center;
+    background-color: deeppink;
+    margin-top: 0px;
+    /*margin-left: 50%;*/
+    /*margin-right: 50%;*/
+}
+
+#test2 {
+    color: deeppink;
+    background-color: white;
+    /*text-align:justify;*/
+}
+
+.test #test2 {
+    font-size: 30px;
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+}
