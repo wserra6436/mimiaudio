@@ -58,25 +58,37 @@ h1 {
     /*text-align: center;*/
 }
 
-.maincat {
+.mainbody {
     text-align: center;
+    /*background-image: url("./images/Mimi\ Chillin.jpg");*/
     background-color: deeppink;
-    margin-top: 0px;
-    display: inline-block;
-    position: relative;
-    margin-left: 50%;
+    display: block;
+    max-width: 100%;
+    color: white;
+    /*background-size: contain;*/
+    /*width: 500px;*/
+    /*background-color: deeppink;*/
+    /*margin-top: 0px;*/
+    /*display: inline-block;*/
+    /*position: relative;*/
+    /*margin-left: 50%;*/
     /*margin-right: 50%;*/
 }
 
-#test2 {
+/*.test {
+    display: inline-block;
+}*/
+
+.test2 {
     color: deeppink;
     background-color: white;
-    /*text-align:justify;*/
+    text-align: center;
 }
 
-.test #test2 {
-    font-size: 30px;
-    text-align: center;
+.test3 {
+    color: deeppink;
+    background-color: red;
+    /*text-align: center;*/
 }
 
 p {
