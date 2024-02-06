@@ -93,6 +93,7 @@ h1 {
     color: deeppink;
     background-color: red;
     /*text-align: center;*/
+    transition: all 1s ease-out;
 }
 
 p {
